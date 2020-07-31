@@ -1,14 +1,14 @@
 # Introdução
 
-Esta é uma aplicação criada com o CronApp IDE.
+Esta é uma aplicação criada com o Cronapp IDE.
 
 ## Pré-Requisitos
 
-1. CronApp IDE
+1. Cronapp IDE
 
-## Como rodar com o CronApp
+## Como rodar com o Cronapp
 
-1. Crie um projeto do tipo Mobile na categoria Low-Code no CronApp IDE (www.cronapp.io)
+1. Crie um projeto do tipo Mobile na categoria Low-Code no Cronapp IDE (www.Cronapp.io)
 2. Digite o nome desejado para o projeto e escolha que o projeto está em um controle de versão
 3. Clique em Finalizar
 4. Aguarde a preparação do ambiente
@@ -21,4 +21,4 @@ Esta é uma aplicação criada com o CronApp IDE.
 
 ## Referências
 
-[CronApp IDE](http://www.cronapp.io/)
+[Cronapp IDE](http://www.cronapp.io/)
